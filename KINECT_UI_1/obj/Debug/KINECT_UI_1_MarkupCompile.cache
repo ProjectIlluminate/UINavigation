@@ -1,0 +1,20 @@
+﻿KINECT_UI_1
+
+
+winexe
+C#
+.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\
+KINECT_UI_1
+none
+false
+DEBUG;TRACE
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\App.xaml
+81172349592
+
+13-943216751
+12-1401562060
+MainWindow.xaml;Pages\LogInPage.xaml;Pages\Pg1_LiveFeed.xaml;Pages\Pg2_AddUser.xaml;Pages\Pg3_MessagingService.xaml;Pages\Pg4_ListOfUsers.xaml;Pages\ProjectIlluminate.xaml;Pages\StartPage.xaml;
+
+False
+

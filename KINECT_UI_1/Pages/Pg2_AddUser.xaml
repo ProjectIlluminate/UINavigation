@@ -1,0 +1,89 @@
+﻿<Page x:Class="KINECT_UI_1.Pages.Pg2_AddUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Pg2_AddUser" Height="500" Width="700">
+
+    <Grid Background="Black">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label Content="User Name:" Grid.Row="0" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                <Label Content="Date:" Grid.Row="1" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="0" Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label Content="Estimated height:" Grid.Row="0" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                <Label Content="Actual height:" Grid.Row="1" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Column="0" Grid.Row="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label Content="Average height:" Grid.Row="0" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            </Grid>
+
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                    <TextBox Name="tbName" Grid.Row="0" Margin="10" GotFocus="tbName_GotFocus"/>
+                    <DatePicker Name="dpDate" Grid.Row="1" Height="30" Margin="5,5,0,5"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                    <TextBox Name="tbEstHeight" Grid.Row="0" Margin="10"/>
+                    <TextBox Name="tbActHeight" Grid.Row="1" Margin="10"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBox Name="tbAvgHeight" Grid.Row="0" Margin="10"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Name="btnAddUser" Content="Click to add user" Grid.Row="0" Margin="10" Click="btnAddUser_Click" />
+            </Grid>
+            <Grid Grid.Column="2" Grid.Row="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Name="btnSaveUser" Content="Click to save user details" Grid.Row="0" Margin="10" Click="btnSaveUser_Click"/>
+            </Grid>
+            <ListBox Name="lstBxUserProfile" Grid.Column="2" Grid.Row="1" Grid.RowSpan="3" Margin="10" Background="DodgerBlue"/>
+        </Grid>
+    </Grid>
+</Page>

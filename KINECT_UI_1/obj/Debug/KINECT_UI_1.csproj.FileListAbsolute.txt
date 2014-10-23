@@ -1,0 +1,40 @@
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\bin\Debug\KINECT_UI_1.exe.config
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\bin\Debug\KINECT_UI_1.exe
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\bin\Debug\KINECT_UI_1.pdb
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.csprojResolveAssemblyReference.cache
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\MainWindow.baml
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\MainWindow.g.cs
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\App.g.cs
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1_MarkupCompile.cache
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.g.resources
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.Properties.Resources.resources
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.csproj.GenerateResource.Cache
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.exe
+C:\Users\maggs\Desktop\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.pdb
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\bin\Debug\KINECT_UI_1.exe.config
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.exe
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.pdb
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\bin\Debug\KINECT_UI_1.exe
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\bin\Debug\KINECT_UI_1.pdb
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.csprojResolveAssemblyReference.cache
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\MainWindow.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\LogInPage.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\ProjectIlluminate.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\StartPage.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\MainWindow.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\LogInPage.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\ProjectIlluminate.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\StartPage.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\App.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1_MarkupCompile.cache
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.g.resources
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.Properties.Resources.resources
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\KINECT_UI_1.csproj.GenerateResource.Cache
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg1_LiveFeed.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg2_AddUser.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg3_MessagingService.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg4_ListOfUsers.baml
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg1_LiveFeed.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg2_AddUser.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg3_MessagingService.g.cs
+C:\Users\maggs\Desktop\KINECT 2014\UI Samples\KINECT_UI_1\KINECT_UI_1\obj\Debug\Pages\Pg4_ListOfUsers.g.cs
